@@ -12,7 +12,7 @@
 
 
 
-🌼 FloraApp-RS2
+🌼 FloraApp
 
 Mobile & desktop app for florists – create custom bouquets, manage orders, and educate users via blog articles.
 Technologies: Flutter, .NET
