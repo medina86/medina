@@ -15,7 +15,7 @@
 🌼 FloraApp-RS2
 
 Mobile & desktop app for florists – create custom bouquets, manage orders, and educate users via blog articles.
-Technologies: Flutter, .NET, Firebase
+Technologies: Flutter, .NET
 
 🐾 PetFeeder
 
