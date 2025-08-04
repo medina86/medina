@@ -1,4 +1,4 @@
-✨ Hi there, I'm Medina 👩‍💻
+✨ **Hi there, I'm Medina** 👩‍💻
 
 💖 Software engineering student from Bosnia and Herzegovina
 
@@ -8,7 +8,7 @@
 
 
 
-🌸 Featured Projects
+🌸**Featured Projects**
 
 
 
@@ -23,7 +23,7 @@ Mini project simulating a smart pet feeding system - ESP8266 + html/css/js
 
 
 
-👩‍💻  Tools & Technologies
+👩‍💻  **Tools & Technologies**
 
   💻Languages
   C#, C++, Dart, JavaScript, HTML, CSS, SQL,  
@@ -38,7 +38,7 @@ Visual Studio / VS Code, Android Emulator / Android Studio, Git + GitHub, Postma
 REST API 
 
 
-💌 Let's Connect!
+💌 **Let's Connect!**
 📧 medina.krhan@edu.fit.ba
 
 
